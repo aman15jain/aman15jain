@@ -35,12 +35,8 @@ From **predictive maintenance and machine learning** to **Agentic AI, RAG, and m
 
 <h2 align="left">💻 Technologies I Work With</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Programming Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,flask" alt="Development Technologies" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,pytorch,docker,git,github,vscode" alt="Databases and Tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,express,html,css,flask,postgres,mongodb,mysql,pytorch,docker,git,github,vscode&perline=19" alt="Technologies" />
 </p>
 
 <p align="center">
